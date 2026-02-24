@@ -1,6 +1,6 @@
 # Vue 3 + Vite + TypeScript + Pinia + Router + Axios
 
-Proyecto base listo para correr con `npm run dev` o integrarse a WebNative.
+Proyecto base listo e inicializado en WebNative.
 
 ## Comandos
 
