@@ -1,4 +1,5 @@
 <template>
+ 
   <NavBar />
   <main class="container">
     <router-view />
@@ -7,6 +8,7 @@
 
 <script setup lang="ts">
 import NavBar from '@/components/NavBar.vue';
+import { IonApp } from '@ionic/vue';
 </script>
 
 <style>
